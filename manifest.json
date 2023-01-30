@@ -1,0 +1,25 @@
+{
+  "short_name": "Rara Avis",
+  "name": "Get ready for adventure!",
+  "icons": [
+    {
+      "src": "0.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "0.svg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "0.svg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
